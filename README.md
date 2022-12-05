@@ -1,1 +1,1 @@
-Shell permissions
+Shell I/O redirections
